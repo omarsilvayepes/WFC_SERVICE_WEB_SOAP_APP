@@ -1,0 +1,7 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\bin\WcfServiceSoap.dll.config
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\bin\WcfServiceSoap.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\bin\WcfServiceSoap.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\obj\Debug\WcfServiceSoap.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\obj\Debug\WcfServiceSoap.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\obj\Debug\WcfServiceSoap.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\WcfServiceSoap\WcfServiceSoap\obj\Debug\WcfServiceSoap.pdb

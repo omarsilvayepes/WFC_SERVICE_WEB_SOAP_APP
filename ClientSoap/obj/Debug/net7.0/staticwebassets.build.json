@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QZ3A+MQhwhmJU22grHW9CDMUdcMMXgn0RlNGwXj6Hi4=",
+  "Source": "ClientSoap",
+  "BasePath": "_content/ClientSoap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
